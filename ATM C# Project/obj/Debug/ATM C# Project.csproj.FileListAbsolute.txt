@@ -1,0 +1,16 @@
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\bin\Debug\ATM C# Project.exe.config
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\bin\Debug\ATM C# Project.exe
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\bin\Debug\ATM C# Project.pdb
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM C# Project.csproj.AssemblyReference.cache
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.Loginpage.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.Mainpage.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.Properties.Resources.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM C# Project.csproj.GenerateResource.cache
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM C# Project.csproj.CoreCompileInputs.cache
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM C# Project.exe
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM C# Project.pdb
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.WithdrawalForm.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.DepositForm.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.Balanceform.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.ChangePinform.resources
+C:\Users\imalk\source\repos\ATM C# Project\ATM C# Project\obj\Debug\ATM_C__Project.Fastcashform.resources
